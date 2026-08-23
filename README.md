@@ -10,9 +10,10 @@
 |---|---|---|
 | أرشيف الإنترنت (Internet Archive) | [بروتوكول-الجلب-من-أرشيف-الإنترنت-نسخة-عامة.md](./بروتوكول-الجلب-من-أرشيف-الإنترنت-نسخة-عامة.md) | [Internet-Archive-Fetch-Protocol-EN.md](./Internet-Archive-Fetch-Protocol-EN.md) |
 | كوربوس OpenITI | [بروتوكول-الجلب-من-OpenITI.md](./بروتوكول-الجلب-من-OpenITI.md) | [OpenITI-Fetch-Protocol-EN.md](./OpenITI-Fetch-Protocol-EN.md) |
-| ربط المكتبة الشاملة بكلود | [بروتوكول-إضافة-الشاملة.md](./بروتوكول-إضافة-الشاملة.md) | — |
 
 كل ملف متاح أيضاً بصيغة `.txt` لمن يريد النسخ المباشر بلا رموز تنسيق.
+
+مصادر إضافية، منها ربط المكتبة الشاملة مباشرة بالمساعد، قادمة تباعاً.
 
 ## بعد الجلب
 
@@ -36,6 +37,6 @@ AI assistants are often criticized for fabricating: attributing a statement to t
 
 The fix is to let the assistant read the text itself. This repository collects short protocols explaining how, by pasting a single link: no downloading, no extracting, no uploading.
 
-See the table above for the English versions of each protocol.
+See the table above for the English versions of each protocol. Additional sources, including a direct connection to the Shamela library, are coming soon.
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). A gift to researchers and students, from Dr. Mahmoud Zaki.
