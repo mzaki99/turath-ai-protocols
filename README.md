@@ -11,8 +11,6 @@
 | أرشيف الإنترنت (Internet Archive) | [بروتوكول-الجلب-من-أرشيف-الإنترنت-نسخة-عامة.md](./بروتوكول-الجلب-من-أرشيف-الإنترنت-نسخة-عامة.md) | [Internet-Archive-Fetch-Protocol-EN.md](./Internet-Archive-Fetch-Protocol-EN.md) |
 | كوربوس OpenITI | [بروتوكول-الجلب-من-OpenITI.md](./بروتوكول-الجلب-من-OpenITI.md) | [OpenITI-Fetch-Protocol-EN.md](./OpenITI-Fetch-Protocol-EN.md) |
 
-كل ملف متاح أيضاً بصيغة `.txt` لمن يريد النسخ المباشر بلا رموز تنسيق.
-
 مصادر إضافية، منها ربط المكتبة الشاملة مباشرة بالمساعد، قادمة تباعاً.
 
 ## بعد الجلب
