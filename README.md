@@ -1,4 +1,4 @@
-# بروتوكولات جلب الكتب ونصوص التراث إلى أدوات الذكاء الاصطناعي
+# بروتوكولات جلب الكتب ونصوص التراث العربي إلى أدوات الذكاء الاصطناعي
 
 أكثر ما يُقال في نقد أدوات الذكاء الاصطناعي أنها تختلق: تنسب قولاً لغير قائله، أو تخترع عنواناً أو رقم صفحة. والسبب غالباً أنها تُسأل عن نص لا تراه، فتجيب من ذاكرة مشوّشة بدل أن تقرأ، وهذا أخطر في التراث العربي والإسلامي تحديداً.
 
@@ -45,7 +45,7 @@
 
 ---
 
-# Fetch Protocols for Arabic Heritage Texts into AI Assistants
+# Fetch Protocols for Books and Arabic Heritage Texts into AI Assistants
 
 AI assistants are often criticized for fabricating: attributing a statement to the wrong person, or inventing a title or page number. The usual cause is that the assistant is asked about a text it cannot see, so it answers from a blurred memory instead of reading. This is especially serious for Arabic and Islamic heritage texts.
 
